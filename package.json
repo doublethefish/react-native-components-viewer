@@ -27,7 +27,7 @@
   "homepage": "https://github.com/machadogj/react-native-components-viewer",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-native-layout-tester": "https://github.com/doublethefish/react-native-layout-tester.git#chore/workaround_deprecation"
+    "react-native-layout-tester": "https://github.com/doublethefish/react-native-layout-tester.git#master"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.0",
